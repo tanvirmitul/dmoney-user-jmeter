@@ -8,7 +8,7 @@
 ## **Clone From**:
 
 ```
-git clone https://github.com/tanvirmitul/dmoney-user-jmeter/tree/main
+ https://github.com/tanvirmitul/dmoney-user-jmeter/tree/main
 ```
 
 - Move jmx file into \apache-jmeter-5.5\bin path
@@ -24,4 +24,4 @@ jmeter -n -t TheMoneyUser.jmx -l TheMoneyUser.csv -e -o Reports
 - Delete user
 
 ![](./summary_report.png)
-![](./html_report.png)
+![](./html_report.png
