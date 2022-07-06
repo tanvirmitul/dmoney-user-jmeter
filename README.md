@@ -24,4 +24,6 @@ jmeter -n -t TheMoneyUser.jmx -l TheMoneyUser.csv -e -o Reports
 - Delete user
 
 ![](./summary_report.png)
+
 ![](./html_report.png)
+
